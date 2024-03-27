@@ -1,5 +1,5 @@
 {
-  "name": "Todo-app",
+  "name": "myApp2",
   "private": true,
   "version": "0.0.1",
   "type": "module",
@@ -13,14 +13,13 @@
   },
   "dependencies": {
     "@capacitor/app": "5.0.7",
-    "@capacitor/core": "5.7.4",
+    "@capacitor/core": "5.7.3",
     "@capacitor/haptics": "5.0.7",
     "@capacitor/keyboard": "5.0.8",
     "@capacitor/status-bar": "5.0.7",
     "@ionic/react": "^7.0.0",
-    "@ionic/react-router": "^7.0.0",
+    "@ionic/react-router": "^7.8.1",
     "@types/react-router": "^5.1.20",
-    "@types/react-router-dom": "^5.3.3",
     "ionicons": "^7.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -28,7 +27,7 @@
     "react-router-dom": "^5.3.4"
   },
   "devDependencies": {
-    "@capacitor/cli": "5.7.4",
+    "@capacitor/cli": "5.7.3",
     "@testing-library/dom": ">=7.21.4",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",

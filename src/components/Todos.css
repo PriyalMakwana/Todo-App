@@ -1,0 +1,36 @@
+
+/* Todos.css */
+
+.todos-container {
+    max-width: 40%; /* Adjust as needed */
+    margin: 0 auto; /* Centering the container */
+}
+
+.todos-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.todo-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc; /* Adding a border between items */
+}
+
+.todo-item.completed {
+    background-color: #f0f0f0; /* Changing background color for completed items */
+}
+
+.todo-details {
+    flex-grow: 1; /* Expand to fill remaining space */
+}
+
+.todo-details label {
+    margin-left: 10px; /* Add some space between checkbox and label */
+}
+
+.delete-button {
+    margin-left: 10px; /* Add some space between label and delete button */
+    min-width: 50px; /* Ensure a minimum width for the button */
+}

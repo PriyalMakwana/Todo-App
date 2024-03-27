@@ -1,0 +1,16 @@
+.blank{
+    color: aqua;
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+
+.blank:hover{
+    color: red;
+    background-color: rgb(253, 244, 244);
+}
+
+/* Custom CSS */
+
+
+
